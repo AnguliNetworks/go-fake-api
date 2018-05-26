@@ -1,0 +1,6 @@
+# Just ignoring the idea setting stuff
+.idea
+*.iml
+
+# Ignoring the build, it can be found in the releases section
+main
