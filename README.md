@@ -1,7 +1,7 @@
 # Go Fake API
 It's simple. You create a response file and when the endpoint is triggered the example api response will be served. And the best thing: *You can fully customize it!*
 
-##Table of Contents
+## Table of Contents
 * [Configuration](#configuration)
 * [Compiling the API](#compiling-the-api)
 * [Launch the API](#launch-the-api)
