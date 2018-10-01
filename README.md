@@ -1,3 +1,6 @@
+[![star this repo](http://githubbadges.com/star.svg?user=AnguliNetworks&repo=go-fake-api)](https://github.com/AnguliNetworks/go-fake-api)
+[![fork this repo](http://githubbadges.com/fork.svg?user=AnguliNetworks&repo=go-fake-api)](https://github.com/AnguliNetworks/go-fake-api/fork)
+[![GitHub license](https://img.shields.io/github/license/AnguliNetworks/go-fake-api.svg)](https://github.com/AnguliNetworks/go-fake-api/blob/master/LICENSE)
 # Go Fake API
 It's simple. You create a response file and when the endpoint is triggered the example api response will be served. And the best thing: *You can fully customize it!*
 
